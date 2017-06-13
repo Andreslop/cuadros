@@ -1,0 +1,36 @@
+#uno {
+  background-color: #CC0000;
+  height: 100px;
+  width: 120px;
+  margin: 5px 10px;
+  border: blue double 5px;
+  color: white;
+  display: inline-block;
+}
+#dos {
+  background-color: #FF8800;
+  height: 120px;
+  width: 150px;
+  margin: 10px;
+  border: green dotted 3px;
+  color: white;
+  display: inline-block;
+}
+#tres {
+  background-color: #FF8800;
+  height: 30px;
+  width: 60px;
+  margin: 10% 5% 20%;
+  border: yellow dashed 0.5em;
+  color: blue;
+  display: inline-block;
+}
+#cuatro {
+  background-color: #CC0000;
+  height: 60px;
+  width: 80px;
+  margin: 25px;
+  border: black solid 2px;
+  color: blue;
+  display: inline-block;
+}
